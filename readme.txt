@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 text romote.
 add a new Local git.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
